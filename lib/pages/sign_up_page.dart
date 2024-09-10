@@ -165,6 +165,8 @@ class _SignUpPageState extends State<SignUpPage> {
                         'By signing up, you agree to our Privacy Policy and Terms of Service.',
                         style: TextStyle(fontSize: 12, color: Colors.white),
                         textAlign: TextAlign.center,
+                        decoration: TextDecoration.underline,
+
                       ),
                       const SizedBox(height: 10),
 
