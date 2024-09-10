@@ -12,7 +12,7 @@ class LoginPage extends StatelessWidget {
           // Background Image
           Positioned.fill(
             child: Image.asset(
-              'lib/assets/bg.png',
+              'lib/assets/bg1.png',
               fit: BoxFit.cover,
             ),
           ),
@@ -29,7 +29,7 @@ class LoginPage extends StatelessWidget {
 
                     // Login title
                     const Text(
-                      'Login',
+                      'Log in',
                       style: TextStyle(
                         fontSize: 36,
                         fontWeight: FontWeight.bold,

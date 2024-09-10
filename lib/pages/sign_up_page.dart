@@ -144,7 +144,7 @@ class _SignUpPageState extends State<SignUpPage> {
                       // Sign Up button
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.black,
+                          backgroundColor: Colors.black,
                           padding: const EdgeInsets.symmetric(vertical: 16),
                         ),
                         onPressed: _agreeToTerms
