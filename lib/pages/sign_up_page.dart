@@ -48,7 +48,7 @@ class _SignUpPageState extends State<SignUpPage> {
                       ),
                       const SizedBox(height: 10),
                       const Text(
-                        'Create an account today.',
+                        'Create an account with us today.',
                         style: TextStyle(
                           fontSize: 16,
                           color: Colors.black,
